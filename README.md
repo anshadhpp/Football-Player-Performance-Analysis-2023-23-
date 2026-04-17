@@ -32,4 +32,4 @@ As a football enthusiast, I wanted to go beyond the scoreboard to see how data d
 3. **Analyze:** Feel free to use the `.csv` for your own Python or R analysis!
 
 ---
-**Developed by Anshad PP** 📫 [anshaddhpp@gmail.com](mailto:anshaddhpp@gmail.com) | Let's connect and talk data!
+**Developed by Anshad PP** [anshaddhpp@gmail.com](mailto:anshaddhpp@gmail.com) | Let's connect and talk data!
