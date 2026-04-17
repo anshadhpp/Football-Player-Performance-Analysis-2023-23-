@@ -8,8 +8,7 @@
 As a football enthusiast, I wanted to go beyond the scoreboard to see how data defines "dominance" on the pitch. This project analyzes over 2,500 players to identify not just the top scorers, but the playmaking engines and league-wide trends that defined the 2022–23 season.
 
 ## Dashboard Preview
-*(Pro-tip: Take a screenshot of your Power BI dashboard, upload it to GitHub, and link it here!)*
-![Dashboard Screenshot](link-your-image-here.png)
+![Full Dashboard Preview](Screenshot%202026-04-17%20090456.jpg)
 
 ## Key Discoveries
 * **The Haaland Effect:** The data visualizes Erling Haaland's historic season, showing a scoring efficiency curve that sits well above the league average.
