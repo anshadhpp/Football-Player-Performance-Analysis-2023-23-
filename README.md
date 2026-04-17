@@ -26,10 +26,10 @@ As a football enthusiast, I wanted to go beyond the scoreboard to see how data d
 * **[Presentation](Football%20Player%20Performance%20Analysis_Anshad.pptx):** A slide deck summarizing my methodology and conclusions.
 * **[Raw Data](2022-2023%20Football%20Player%20Stats.csv):** The original dataset for transparency.
 
-## 🚀 Getting Started
+## Getting Started
 1. **Explore the Insights:** Open the `.pptx` for the "executive summary."
 2. **Interact:** Download the `.pbix` and open it in **Power BI Desktop** to filter by league, squad, or age.
 3. **Analyze:** Feel free to use the `.csv` for your own Python or R analysis!
 
 ---
-**Developed by Anshad P** 📫 [anshaddhpp@gmail.com](mailto:anshaddhpp@gmail.com) | Let's connect and talk data!
+**Developed by Anshad PP** 📫 [anshaddhpp@gmail.com](mailto:anshaddhpp@gmail.com) | Let's connect and talk data!
